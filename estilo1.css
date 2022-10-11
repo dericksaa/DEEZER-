@@ -16,6 +16,244 @@ html, body{
 
 /* todo el contenido de Derick */
 
+.s1{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 37px;
+
+}
+
+.s1_p1{
+    color: white;
+    font-size: 12px;
+}
+
+.s1_container1{
+    text-decoration: none;
+    color: #52525d;
+    border: 1px solid;
+    padding: 20px 30px;
+    width: 229px;
+    height: 94px;
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 52px;
+    margin-top: 19px;
+}
+
+.S1_tigo{
+    height: 20px;
+    width: 20px;
+    margin-top: 18px;
+}
+
+.s1_logo1{
+    height: 24px;
+    width: 117px;
+    text-align: center;
+    margin-top: 40px;
+    margin-right: 80px;
+}
+
+.s1_sesion{
+    text-align: center;
+    text-decoration: none;
+    border: 2px solid;
+    font-size: 12px;
+    font-weight: 700;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 100px;
+    line-height: 26px;
+    width: 124px;
+    height: 44px;
+    margin-top: 19px;
+    margin-right: 90px;
+}
+
+.s1_titulo{
+    text-align: center;
+    font-size: 42px;
+    width: 600px;
+    height: 47px;
+    margin: 0 auto;
+    margin-top: 16px;
+    margin-bottom: 48px;
+}
+
+.s1_container2{
+    margin: 0 auto;
+    background: rgb(112,65,179);
+    background: linear-gradient(90deg, rgba(112,65,179,1) 0%, rgba(147,58,171,0.9416141456582633) 55%);
+    width: 600px;
+    height: 281px;
+    padding: 24px 80px 16px 80px;
+    border-radius: 20px;
+    text-align: center;    
+    margin-bottom: 48px;
+}
+
+.s1_subtit1{
+    font-size: 38px;
+    color: white;
+    width: auto;
+    margin: 0 auto;
+    margin-bottom: 17px;
+}
+
+.s1_subtit1 span{
+    font-weight: 400;
+}
+
+.s1_subtit1_a{
+    text-decoration: none;
+}
+
+.s1_p2{
+    margin-bottom: 23px;
+}
+
+.s1_sesion1{
+    background-color: #121216;
+    margin: 0 auto;
+    font-size: 14px;
+    padding: 8px 20px;
+    margin-bottom: 24px;
+    width: 338px;
+    height: 54px;
+    border-radius: 400px;
+    box-shadow: 0 .3rem 0 0 rgb(0 0 0 / 6%);
+}
+
+.s1_sesion1_registro{
+    color: white;
+    text-decoration: none;
+    line-height: 37px;
+    font-weight: 700;
+}
+
+.s1_p3{
+    font-size: 14px;
+    margin-bottom: 6px;
+}
+
+.s1_info{
+    color: whitesmoke;
+    font-size: 14px;
+}
+
+.s1_container3{
+    margin: 0 auto;
+    background: rgb(221,78,18);
+    background: linear-gradient(54deg, rgba(221,78,18,1) 0%, rgba(252,165,44,1) 100%);
+    width: 600px;
+    height: 438px;
+    padding: 24px 80px 16px 80px;
+    border-radius: 20px;
+    text-align: center;    
+    margin-bottom: 48px;
+}
+
+.s1_subtit2{
+    font-size: 32px;
+    color: white;
+    width: auto;
+    margin: 0 auto;
+}
+
+.s1_precio_mes{
+    font-size: 16px;
+    color: white;
+    width: auto;
+    margin: 0 auto;
+    margin-bottom: 17px;
+    font-weight: 400;
+}
+
+
+.s1_container5{
+    margin: 0 auto;
+    background: rgb(33,34,35);
+    background: linear-gradient(180deg, rgba(33,34,35,1) 0%, rgba(58,59,71,1) 30%);
+    width: 600px;
+    height: 174px;
+    padding: 24px 80px 16px 80px;
+    border-radius: 20px;
+    text-align: center;    
+    margin-bottom: 48px;
+}
+
+.s1_oferta{
+    font-size: 16px;
+    color: white;
+    width: auto;
+    margin: 0 auto;
+    margin-bottom: 18px;
+    font-weight: 400;
+}
+
+.S1_tigo2{
+    height: 40px;
+    width: 25px;
+    padding-bottom: 15px;
+}
+
+.s1_container6{
+    margin: 0 auto;
+    background: rgb(118,75,191);
+    background: linear-gradient(70deg, rgba(118,75,191,1) 0%, rgba(83,99,242,1) 32%, rgba(57,192,166,1) 94%);
+    width: 600px;
+    height: 419px;
+    padding: 24px 80px 16px 80px;
+    border-radius: 20px;
+    text-align: center;    
+    margin-bottom: 25px;
+}
+
+.s1_container8{
+    margin: 0 auto;
+    background-color: #121216;
+    width: 600px;
+    height: 39px;
+    padding: 8px 8px 8px 60px;
+    border-radius: 20px;
+    text-align: center;
+    border: 1px solid;
+    margin-bottom: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.s1_p4{
+    font-size: 14px;
+    font-weight: 700;
+    margin-left: 187px;
+}
+
+.s1_p5{
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.s1_p6{
+    font-size: 14px;
+    font-weight: 700;
+    margin-left: 155px;
+}
+
+.s1_container9{
+    background: rgb(118,75,191);
+    background: linear-gradient(70deg, rgba(118,75,191,1) 0%, rgba(83,99,242,1) 32%, rgba(57,192,166,1) 94%);
+    width: 52px;
+    height: 25px;
+    padding: 3px 10px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+
 /* todo el contenido de Cristian */
 
 /* todo el contenido de Daniela */
