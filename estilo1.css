@@ -257,7 +257,7 @@ html, body{
 /* todo el contenido de Cristian */
 
 .s1_derick {
-    background-image: url("/Imagenes1/S1_fondo.svg");
+    background-image: url("./Imagenes1/S1_fondo.svg");
     background-repeat: no-repeat;
     background-position: top;
 }
