@@ -1,0 +1,23 @@
+/* para todo el documento  */
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+
+html, body{
+    overflow-x: hidden;
+    background-color: #131216;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+/* todo el contenido de Derick */
+
+/* todo el contenido de Cristian */
+
+/* todo el contenido de Daniela */
+
+
