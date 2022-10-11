@@ -18,6 +18,118 @@ html, body{
 
 /* todo el contenido de Cristian */
 
+.s1_derick {
+    background-image: url("/Imagenes1/S1_fondo.svg");
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.s2{
+    margin-top: 100px;
+    text-align: center;    
+    color: white;}
+
+.s2 h1 {
+    font-size: 50px;
+    margin-bottom: 40px;}
+
+.s2 h2 {
+    font-size: 35px;
+    margin-bottom: 30px;}
+
+.s2 p{
+    color: gray;
+    font-size: 20px;
+    padding-bottom: 20px;}
+
+.s2 a {
+    font-weight: 700;
+    font-size: 18px;}
+
+/*___S2 FUNCIONES___*/
+
+.s2_funciones {
+    margin-top: 20px;
+    margin-bottom: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 60px;
+    width: 420px;
+    border-radius: 50px;
+    background-color: white;
+    text-decoration: none;    
+    padding-top: 20px;}
+
+.s2_funciones a{
+    text-decoration: none;
+    color: black;}
+
+/*___S2 DESCUBRE___*/
+
+.s2_descubre_flow {
+    margin-top: 0px;
+    margin-bottom: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 60px;
+    width: 220px;
+    border-radius: 50px;
+    background-color: white;
+    text-decoration: none;    
+    padding-top: 20px}
+
+.s2_descubre_flow a{
+    text-decoration: none;
+    color: black;}
+
+/*___S2 SIN CONEXION___*/
+
+.s2_sin_conexion {
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 60px;
+    width: 300px;
+    border-radius: 50px;
+    background-color: white;
+    text-decoration: none;    
+    padding-top: 20px}
+
+.s2_sin_conexion a{
+    text-decoration: none;
+    color: black;}
+
+.s2 span{  
+    text-decoration: none;}
+/*________carrusel_______*/
+
+.s2_carrusel {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+    margin-left: 120px;
+    margin-right: 120px;}
+
+.s2_carrusel p {
+    font-size: 15px;}
+
+.s2_explora {
+    margin-top: 20px;
+    margin-bottom: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 60px;
+    width: 320px;
+    border-radius: 50px;
+    background-color: white;
+    text-decoration: none;    
+    padding-top: 20px}
+
+.s2_explora a{
+    text-decoration: none;
+    color: black;}
+
+
 /* todo el contenido de Daniela */
 
 
