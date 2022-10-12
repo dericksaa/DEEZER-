@@ -370,4 +370,135 @@ html, body{
 
 /* todo el contenido de Daniela */
 
+.s3 {
+    margin-bottom: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 60px;
+    width: 600px;
+    border-radius: 50px;
+    text-decoration: none;    
+    text-align: center;   
+}
+
+.divider{
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    color: undefined;
+    color: var(--divider-primary);
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    width: 100%;
+}
+.divider .divider-line:first-of-type {
+    background: linear-gradient(270deg,currentColor,currentColor 84.88%,rgba(0,0,0,0));
+}
+.divider .divider-line:last-of-type {
+    background: linear-gradient(90deg,currentColor,currentColor 84.88%,rgba(0,0,0,0));
+}
+.divider .divider-line {
+    -webkit-flex-shrink: 1;
+    -ms-flex-negative: 1;
+    flex-shrink: 1;
+    height: 2px;
+    color: gray;
+    width: 100%;}
+.divider .divider-text {
+    color: undefined;
+    color: var(--text-primary);
+    -webkit-flex-shrink: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    font-size: 14px;
+    font-weight: 700;
+    padding-left: 16px;
+    padding-right: 16px;
+    text-transform: uppercase;
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;}
+.s3 h1 {
+    margin-top: 42px;
+    margin-bottom: 40px;
+    font-size: 42px;
+    text-align: center;}
+.s3 p{
+    color: gray;
+    font-size: 16px;
+    padding-bottom: 5px;
+    text-align: center;}
+.s3 img {
+    height: auto;
+    width: 97%;}
+.mas{
+    margin-left: auto;
+    margin-right: auto;
+    height: 60px;
+    width: 200px;
+    border-radius: 50px;
+    background-color: white;
+    text-decoration: none;    
+    padding-top: 20px}
+.mas a{
+    text-decoration: none;
+    color: black;}
+.faq{
+    margin-top: 25x;
+    margin-left: auto;
+    margin-right: auto;
+    height: 40px;
+    width: 600px;
+    border-radius: 50px;
+    text-decoration: none;    
+    padding-top: 40px; 
+    text-align: left;}
+.faq_titulo{
+    font-size: 50px;
+    text-align: center;}
+.faq p{
+    font-size: 16px;
+    color: white;
+    text-align: left;}
+.parrafito p{
+    margin-top: 1150px;
+    font-size: 12px;
+    color: gray;
+    text-align: left;
+    line-height: 200%;}
+.prueba summary{
+    justify-content: space-between;
+}
+.summary::-webkit-details-marker {
+    display: none
+    }
+.summary::after {
+    content: '>';}
+.details[open] summary:after {
+    content: "";
+}
+.footer{
+    font-size: 15px;
+    width: 100%;
+    margin-bottom: 60px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 60px;
+    text-decoration: none;    
+    text-align: center;  
+}
+.footer td{
+    font-weight: bold;
+    border-top: 5px solid gray;
+
+}
+/*_________________________*/
+.footer contenedor{
+    flex-direction: row;
+}
+
 
